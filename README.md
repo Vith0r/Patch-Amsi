@@ -1,8 +1,8 @@
 # PATCH AMSI 🐱‍💻
 <img src="https://img.shields.io/badge/platform-Windows-0078d7.svg?style=for-the-badge&logo=appveyor" alt="Windows">
 
-> ⚠️ **Aviso**
-> **Por favor, não use para propósitos maliciosos.**
+⚠️ **Aviso**  
+> **Este código foi desenvolvido para fins educativos e de pesquisa em segurança. Não o utilize para propósitos maliciosos.**
 
 ## Visão Geral do Projeto
 
